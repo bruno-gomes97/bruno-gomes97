@@ -18,6 +18,7 @@ Bem-vindo ao meu perfil GitHub! Sou um entusiasta da área de desenvolvimento ba
 
 - **Ferramentas e Tecnologias:**
   - Git & GitHub
+  - Eclipse
 
 - **Outros:**
   - Boa compreensão de estruturas de dados e algoritmos
