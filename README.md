@@ -28,5 +28,5 @@ Bem-vindo ao meu perfil GitHub! Sou um entusiasta da área de desenvolvimento fr
 - **Email:** [gomes_bruno97@hotmail.com](mailto:gomes_bruno97@hotmail.com)
 - **LinkedIn:** [Bruno Gomes](https://www.linkedin.com/in/brunogs97/)
 
-Sinta-se à vontade para entrar em contato comigo se você tiver alguma dúvida, sugestão ou apenas quiser bater um papo sobre desenvolvimento backend.
+Sinta-se à vontade para entrar em contato comigo se você tiver alguma dúvida, sugestão ou apenas quiser bater um papo.
 
