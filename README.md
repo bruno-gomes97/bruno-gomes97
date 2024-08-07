@@ -1,24 +1,23 @@
 # Olá, meu nome é Bruno Gomes!
 
-Bem-vindo ao meu perfil GitHub! Sou um entusiasta da área de desenvolvimento backend e estou constantemente buscando aprender e crescer como desenvolvedor.
+Bem-vindo ao meu perfil GitHub! Sou um entusiasta da área de desenvolvimento front-end e estou constantemente buscando aprender e crescer como desenvolvedor.
 
 ## Sobre Mim
 
 - 💻 **Nome:** Bruno Gomes
 - 🎓 **Formação:** Atualmente cursando Técnico em Informática
-- 🌱 **Interesses:** Desenvolvimento Backend
+- 🌱 **Interesses:** Desenvolvimento Front-end
 - 📚 **Aprendizado:** Aprofundando meus estudos em documentações e cursos na web
-- 🌐 **Objetivo:** Transição para a área de desenvolvimento backend
+- 🌐 **Objetivo:** Transição para a área de desenvolvimento Front-end
 
 ## Habilidades em Desenvolvimento
 
 - **Linguagens de Programação:**
-  - Java
   - JavaScript
 
 - **Ferramentas e Tecnologias:**
   - Git & GitHub
-  - Eclipse
+  - Visual Studio Code
 
 - **Outros:**
   - Boa compreensão de estruturas de dados e algoritmos
