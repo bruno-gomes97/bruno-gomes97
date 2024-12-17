@@ -6,18 +6,19 @@ Bem-vindo ao meu perfil GitHub! Sou um entusiasta da área de desenvolvimento fr
 
 - 💻 **Nome:** Bruno Gomes
 - 🎓 **Formação:** Atualmente cursando Técnico em Informática
-- 🌱 **Interesses:** Desenvolvimento Front-end
+- 🌱 **Interesses:** Desenvolvedor Fullstack
 - 📚 **Aprendizado:** Aprofundando meus estudos em documentações e cursos na web
-- 🌐 **Objetivo:** Transição para a área de desenvolvimento Front-end
 
 ## Habilidades em Desenvolvimento
 
 - **Linguagens de Programação:**
   - JavaScript
+  - Java
 
 - **Ferramentas e Tecnologias:**
   - Git & GitHub
   - Visual Studio Code
+  - intellij
 
 - **Outros:**
   - Boa compreensão de estruturas de dados e algoritmos
