@@ -1,33 +1,37 @@
-# Olá, meu nome é Bruno Gomes!
+# 👋 Olá, eu sou o Bruno Gomes
 
-Bem-vindo ao meu perfil GitHub! Sou um entusiasta da área de desenvolvimento front-end e estou constantemente buscando aprender e crescer como desenvolvedor.
+Desenvolvedor **FullStack** com foco na construção de aplicações web escaláveis, bem estruturadas e orientadas a boas práticas de engenharia de software.
 
-## Sobre Mim
+Atuo no desenvolvimento de soluções completas utilizando **React + Vite no Front-end** e **Java + Spring Boot no Back-end**, participando desde a construção da interface até a modelagem da lógica de negócio e integração com APIs.
 
-- 💻 **Nome:** Bruno Gomes
-- 🎓 **Formação:** Atualmente cursando Técnico em Informática
-- 🌱 **Interesses:** Desenvolvedor Fullstack
-- 📚 **Aprendizado:** Aprofundando meus estudos em documentações e cursos na web
+🎓 Estudante de Ciência da Computação na **UniRitter (RS)**  
+📍 Rio Grande do Sul, Brasil  
 
-## Habilidades em Desenvolvimento
+---
 
-- **Linguagens de Programação:**
-  - JavaScript
-  - Java
+## 💼 Experiência & Atuação
 
-- **Ferramentas e Tecnologias:**
-  - Git & GitHub
-  - Visual Studio Code
-  - intellij
+• Desenvolvimento e manutenção de aplicações web fullstack  
+• Construção de interfaces modernas e responsivas com React  
+• Desenvolvimento de APIs REST com Java + Spring Boot  
+• Integração entre front-end e back-end  
+• Aplicação de boas práticas de código e organização de projetos  
+• Correção de bugs, melhorias evolutivas e refatoração de código  
 
-- **Outros:**
-  - Boa compreensão de estruturas de dados e algoritmos
-  - Familiaridade com metodologias ágeis (Scrum, Kanban)
+---
 
-## Contato
+## 💼 Skills
 
-- **Email:** [gomes_bruno97@hotmail.com](mailto:gomes_bruno97@hotmail.com)
-- **LinkedIn:** [Bruno Gomes](https://www.linkedin.com/in/brunogs97/)
+**Front-end:** TypeScript, JavaScript, React, Next.js, Tailwind.
 
-Sinta-se à vontade para entrar em contato comigo se você tiver alguma dúvida, sugestão ou apenas quiser bater um papo.
+**Back-end:** Next.js, Java Spring Framework.
 
+**Database:** SQL, Postgres, Supabase.
+
+**DevOps & Tools:** GIT, CI/CD, Vercel, Postman.
+
+
+## 📫 Contato
+
+📧 Email: gomes_bruno97@hotmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/brunogs97/
